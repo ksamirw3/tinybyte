@@ -1,5 +1,5 @@
 <?php
 
-echo "test";
+echo "test Automatic deploys to heroku";
 
 ?>
